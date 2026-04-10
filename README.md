@@ -1,2 +1,2 @@
 # EXERCICIOS_C
-Exercícios de C
+Exercícios da linguagem C
