@@ -1,3 +1,4 @@
+// Cálculo de desconto com base no valor de uma compra
 #include <stdio.h>
 
 void main(){

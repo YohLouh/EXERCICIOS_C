@@ -1,3 +1,4 @@
+// Receba dois números e diga qual é o maior por uma função
 #include <stdio.h>
 
 int maior (int a, int b){

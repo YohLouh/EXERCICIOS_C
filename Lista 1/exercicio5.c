@@ -1,3 +1,4 @@
+// Um menu com diferentes operações em cada case
 #include <stdio.h>
 
 

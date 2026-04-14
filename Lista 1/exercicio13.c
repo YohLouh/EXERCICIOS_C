@@ -1,3 +1,4 @@
+// Cálculo de imposto com base no salário recebido
 #include <stdio.h>
 
 void main(){

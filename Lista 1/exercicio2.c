@@ -1,3 +1,4 @@
+// Receba um número e diga se é par
 #include <stdio.h>
 
 void main(){

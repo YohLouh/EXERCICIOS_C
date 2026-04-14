@@ -1,3 +1,4 @@
+// Classificação de um triângulo com base na medida e ângulo de cada lado
 #include <stdio.h>
 
 float angulos(float angulo1, float angulo2, float angulo3){

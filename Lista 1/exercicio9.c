@@ -1,3 +1,4 @@
+// Receba dois números e diga se um é múltiplo do outro
 #include <stdio.h>
 
 void main(){

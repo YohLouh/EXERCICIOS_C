@@ -1,3 +1,4 @@
+// Receba um número e diga se é positivo ou não
 #include <stdio.h>
 
 void main(){

@@ -1,3 +1,4 @@
+// Função que calcule o IMC e diga sua classificação na tabela
 #include <stdio.h>
 
 float IMC (float peso, float altura){

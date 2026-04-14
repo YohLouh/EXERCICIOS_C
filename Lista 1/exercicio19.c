@@ -1,3 +1,4 @@
+// Sistema de voto simples com switch
 #include <stdio.h>
 
 void main(){

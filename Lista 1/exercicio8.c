@@ -1,3 +1,4 @@
+// Cálculo de aumento salarial conforme uma tabela
 #include <stdio.h>
 
 void main(){

@@ -1,3 +1,4 @@
+// Receba um ano e diga se ele é bissexto
 #include <stdio.h>
 
 void main(){

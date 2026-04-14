@@ -1,3 +1,4 @@
+// Separação de cédulas de 100, 50, 20 e 10 com base em um valor inserido
 #include <stdio.h>
 
 void main(){

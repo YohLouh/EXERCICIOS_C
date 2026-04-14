@@ -1,3 +1,4 @@
+// Menu que faz cálculo de IMC, média, e diz se um número é par conforme o case
 #include <stdio.h>
 
 float media (float nota1, float nota2){
@@ -15,7 +16,6 @@ float media (float nota1, float nota2){
    }
    return media;
 }
-
 float IMC (float peso, float altura){
     float IMC;
     IMC = peso/(altura*altura);
@@ -40,7 +40,6 @@ float IMC (float peso, float altura){
     }
     return IMC;
 }
-
 int ehPar(int num){
     int ehPar;
     if (num % 2 == 0){

@@ -1,3 +1,4 @@
+// Receba duas notas e, com uma função, diga a média
 #include <stdio.h>
 
 float media (float nota1, float nota2){

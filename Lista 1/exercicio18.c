@@ -1,3 +1,4 @@
+// Cálculo de valor com base em parcelas e juros
 #include <stdio.h>
 
 void main(){

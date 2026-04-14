@@ -1,3 +1,4 @@
+// Função que diga se um número é par, retornando 1 se sim, e 0 se não
 #include <stdio.h>
 
 int ehPar(int num){

@@ -1,3 +1,4 @@
+// Sistema de aprovação com base nas notas e presença de um aluno
 #include <stdio.h>
 
 float media (float nota1, float nota2){
@@ -16,7 +17,6 @@ float media (float nota1, float nota2){
    }
    return media;
 }
-
 int presenca (int aulasTotais, int aulasFaltas){
     int presenca = aulasTotais - aulasFaltas;
     return presenca;
