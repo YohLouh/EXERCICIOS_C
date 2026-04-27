@@ -3,7 +3,8 @@
 
 void main(){
 
-    int num[5];
+    int num[5]; 
+    printf("Digite 5 numeros: ");
     for(int i = 0; i < 5; i++){
         scanf("%d", &num[i]);
     }
