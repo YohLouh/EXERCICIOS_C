@@ -4,16 +4,18 @@
 void main(){
 
     int num[5];
+    int vetor[2] = {0, 1};
     printf("Digite 5 numeros: ");
     for(int i = 0; i < 5; i++){
         scanf("%d", &num[i]);
     }
 
     for(int i = 0; i < 5; i++){
-        if(num[i] < 0){
-            num[i] = 0;
+        if(num[i] % 2 == 0){
+            printf("(%d) Par: %d\n", num[i], vetor[2]);
+        } else {
+            printf("(%d) Impar: %d\n", num[i], vetor[1]);
         }
-        printf("%d", num[i]);
     }
 
 }
